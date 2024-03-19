@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\CPP\own\Enter binary to see decimal\main(int)\Project16\Source.cpp(30,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\CPP\own\Enter binary to see decimal\main(int)\Project16\Source.cpp(32,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Project16.vcxproj -> D:\CPP\own\Enter binary to see decimal\main(int)\x64\Debug\Project16.exe

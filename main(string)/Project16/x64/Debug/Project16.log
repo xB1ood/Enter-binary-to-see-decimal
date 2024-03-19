@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Projects\Enter binary to see decimal\main(string)\Project16\Source.cpp(32,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Project16.vcxproj -> D:\Projects\Enter binary to see decimal\main(string)\x64\Debug\Project16.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
